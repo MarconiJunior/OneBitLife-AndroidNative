@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources >
+
+    <declare-styleable name="BorderAttrs">
+        <attr name="borderColor" format="color" />
+    </declare-styleable>
+
+    <style name="mindButton">
+        <item name="borderColor">#90B7F3</item>
+    </style>
+
+    <style name="moneyButton">
+        <item name="borderColor">#85BB65</item>
+    </style>
+    
+    <style name="bodyButton">
+        <item name="borderColor">#FF0043</item>
+    </style>
+
+    <style name="funButton">
+        <item name="borderColor">#FE7F23</item>
+    </style>
+</resources>

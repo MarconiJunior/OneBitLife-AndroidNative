@@ -1,0 +1,18 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">OneBitLife</string>
+    <string name="main_title">Antes, deixa\neu te explicar…</string>
+    <string name="main_explanation_title">Através deste APP você vai consolidar \n4 hábitos de áreas fundamentais:</string>
+    <string name="main_mind_text"><![CDATA[<b><font color="#90B7F3">Mente:</font></b> <font color="#FFFFFF">Hábitos para melhora sua inteligência/sabedoria</font>]]></string>
+    <string name="main_money_text"><![CDATA[<b><font color="#85BB65">Financeiro:</font></b> <font color="#FFFFFF">Hábitos para te ajudar com controle financeiro</font>]]></string>
+    <string name="main_body_text"><![CDATA[<b><font color="#FF0044">Corpo:</font></b> <font color="#FFFFFF">Hábitos para te ajudar com controle financeiro</font>]]></string>
+    <string name="main_fun_text"><![CDATA[<b><font color="#FE7F23">Humor:</font></b> <font color="#FFFFFF">Hábitos para te ajudar com controle financeiro</font>]]></string>
+    <string name="main_ready_text">Pronto(a) para subir de nível na vida?</string>
+    <string name="main_next_screen">Na próxima tela você irá poder escolher\nseus 4 hábitos de forma individual.</string>
+    <string name="main_continue_button">Continuar</string>
+
+    <string name="menu_mind_goal">Adicionar meta da Mente</string>
+    <string name="menu_money_goal">Adicionar meta do Financeiro</string>
+    <string name="menu_body_goal">Adicionar meta do Corpo</string>
+    <string name="menu_fun_goal">Adicionar meta do Humor</string>
+    <string name="menu_show_explanation">Ver explicações novamente</string>
+</resources>

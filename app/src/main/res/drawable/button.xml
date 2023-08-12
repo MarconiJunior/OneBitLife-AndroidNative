@@ -1,0 +1,20 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Defina a cor de fundo do botão (borda transparente) -->
+            <solid android:color="#00000000" /> <!-- Cor transparente (#00FFFFFF) -->
+            <!-- Defina as bordas do retângulo (aqui está usando 1dp, você pode ajustar conforme necessário) -->
+            <stroke android:width="1dp" android:color="#FFFFFF" /> <!-- Cor das bordas (branco) -->
+            <!-- Ajuste o raio das bordas se desejar -->
+            <corners android:radius="10dp" /> <!-- Raio das bordas em dp -->
+        </shape>
+    </item>
+    <item android:top="1dp" android:right="1dp" android:bottom="1dp" android:left="1dp">
+        <shape android:shape="rectangle">
+            <!-- Defina a cor de fundo do botão (meio transparente) -->
+            <solid android:color="#00000000" /> <!-- Cor transparente com 50% de opacidade (#80000000) -->
+            <!-- Ajuste o raio se desejar -->
+            <corners android:radius="10dp" /> <!-- Raio em dp, igual ao valor do item anterior -->
+        </shape>
+    </item>
+</layer-list>
